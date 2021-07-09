@@ -1,14 +1,14 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="LinkedJob:war">
+  <artifact type="war" name="linkedjob:war">
     <output-path>$PROJECT_DIR$/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <module>LinkedJob</module>
+        <module>linkedjob</module>
         <packaging>war</packaging>
       </options>
     </properties>
     <root id="archive" name="LinkedJob-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="LinkedJob:war exploded" />
+      <element id="artifact" artifact-name="linkedjob:war exploded" />
     </root>
   </artifact>
 </component>
